@@ -1,5 +1,6 @@
 import pygame
-import subprocess  # For launching another Python script
+
+__name__ = 'ttt'
 
 pygame.init()
 Screen = pygame.display.set_mode((1000, 500))
